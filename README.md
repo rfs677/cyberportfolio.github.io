@@ -18,9 +18,11 @@ I am now eager to transition my extensive IT experience into this field, specifi
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CompTIA%20A%2B-Certified-brightgreen?style=for-the-badge"/> /br
-<img src="https://img.shields.io/badge/CompTIA%20Project%2B-Certified-007ec6?style=for-the-badge"/> /br
+<pre>
+<img src="https://img.shields.io/badge/CompTIA%20A%2B-Certified-brightgreen?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/CompTIA%20Project%2B-Certified-007ec6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ITIL%20Foundation-Certified-6d1f80?style=for-the-badge"/>
+</pre>
 </div>
 
 ## Projects
