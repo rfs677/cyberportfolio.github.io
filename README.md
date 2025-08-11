@@ -1,7 +1,6 @@
 # Hello, I'm Robert
 <a href="https://www.linkedin.com/in/robertfs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -45,7 +44,6 @@ I am now eager to transition my extensive IT experience into this field, specifi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 [![CompTIA A+ Certified](https://img.shields.io/badge/CompTIA%20A%2B-Certified-brightgreen?style=for-the-badge)]
 [![CompTIA Project+ Certified](https://img.shields.io/badge/CompTIA%20Project%2B-Certified-007ec6?style=for-the-badge)]
