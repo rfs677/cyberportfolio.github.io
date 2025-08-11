@@ -11,14 +11,6 @@ I am now eager to transition my extensive IT experience into this field, specifi
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -45,9 +37,9 @@ I am now eager to transition my extensive IT experience into this field, specifi
 
 ## Certifications
 <div>
-[![CompTIA A+ Certified](https://img.shields.io/badge/CompTIA%20A%2B-Certified-brightgreen?style=for-the-badge)]
-[![CompTIA Project+ Certified](https://img.shields.io/badge/CompTIA%20Project%2B-Certified-007ec6?style=for-the-badge)]
-[![ITIL Foundation Certified](https://img.shields.io/badge/ITIL%20Foundation-Certified-6d1f80?style=for-the-badge)]
+<img src="https://img.shields.io/badge/CompTIA%20A%2B-Certified-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA%20Project%2B-Certified-007ec6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ITIL%20Foundation-Certified-6d1f80?style=for-the-badge"/>
 </div>
 
 ## Projects
